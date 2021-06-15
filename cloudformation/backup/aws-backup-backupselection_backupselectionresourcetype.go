@@ -1,7 +1,7 @@
 package backup
 
 import (
-	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/anurocks1/goformation/v4/cloudformation/policies"
 )
 
 // BackupSelection_BackupSelectionResourceType AWS CloudFormation Resource (AWS::Backup::BackupSelection.BackupSelectionResourceType)

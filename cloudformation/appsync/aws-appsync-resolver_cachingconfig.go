@@ -1,7 +1,7 @@
 package appsync
 
 import (
-	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/anurocks1/goformation/v4/cloudformation/policies"
 )
 
 // Resolver_CachingConfig AWS CloudFormation Resource (AWS::AppSync::Resolver.CachingConfig)

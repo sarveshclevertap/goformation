@@ -1,7 +1,7 @@
 package ec2
 
 import (
-	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/anurocks1/goformation/v4/cloudformation/policies"
 )
 
 // ClientVpnEndpoint_ClientAuthenticationRequest AWS CloudFormation Resource (AWS::EC2::ClientVpnEndpoint.ClientAuthenticationRequest)

@@ -1,7 +1,7 @@
 package robomaker
 
 import (
-	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/anurocks1/goformation/v4/cloudformation/policies"
 )
 
 // RobotApplication_RobotSoftwareSuite AWS CloudFormation Resource (AWS::RoboMaker::RobotApplication.RobotSoftwareSuite)

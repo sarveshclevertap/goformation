@@ -47,7 +47,7 @@ import (
 	"time"
 
 	"github.com/awslabs/goformation/v4/cloudformation"
-	"github.com/awslabs/goformation/v4/cloudformation/sns"
+	"github.com/anurocks1/goformation/v4/cloudformation/sns"
 
 
 )

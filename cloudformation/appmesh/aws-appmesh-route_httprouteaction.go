@@ -1,7 +1,7 @@
 package appmesh
 
 import (
-	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/anurocks1/goformation/v4/cloudformation/policies"
 )
 
 // Route_HttpRouteAction AWS CloudFormation Resource (AWS::AppMesh::Route.HttpRouteAction)

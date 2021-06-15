@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/awslabs/goformation/v4/cloudformation/policies"
-	"github.com/awslabs/goformation/v4/cloudformation/tags"
+	"github.com/anurocks1/goformation/v4/cloudformation/policies"
+	"github.com/anurocks1/goformation/v4/cloudformation/tags"
 )
 
 // InternetGateway AWS CloudFormation Resource (AWS::EC2::InternetGateway)
