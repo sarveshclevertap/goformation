@@ -71,7 +71,7 @@ type Service struct {
 	// PlacementConstraints AWS CloudFormation Property
 	// Required: false
 	// See: http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-resource-ecs-service.html#cfn-ecs-service-placementconstraints
-	PlacementConstraints []Service_PlacementConstraint `json:"PlacementConstraints,omitempty"`
+	PlacementConstraints []Service_PlacementConstraint `json:"PlacementConstraints"`
 
 	// PlacementStrategies AWS CloudFormation Property
 	// Required: false
