@@ -1,7 +1,7 @@
 package mediapackage
 
 import (
-	"github.com/anurocks1/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // PackagingConfiguration_DashManifest AWS CloudFormation Resource (AWS::MediaPackage::PackagingConfiguration.DashManifest)

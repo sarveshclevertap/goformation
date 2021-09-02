@@ -1,7 +1,7 @@
 package cassandra
 
 import (
-	"github.com/anurocks1/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // Table_ClusteringKeyColumn AWS CloudFormation Resource (AWS::Cassandra::Table.ClusteringKeyColumn)

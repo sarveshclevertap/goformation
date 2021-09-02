@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/anurocks1/goformation/v4/cloudformation/policies"
-	"github.com/anurocks1/goformation/v4/cloudformation/tags"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/tags"
 )
 
 // Bucket AWS CloudFormation Resource (AWS::S3Outposts::Bucket)

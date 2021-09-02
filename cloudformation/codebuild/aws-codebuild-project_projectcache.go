@@ -1,7 +1,7 @@
 package codebuild
 
 import (
-	"github.com/anurocks1/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // Project_ProjectCache AWS CloudFormation Resource (AWS::CodeBuild::Project.ProjectCache)

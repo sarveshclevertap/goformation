@@ -1,7 +1,7 @@
 package ec2
 
 import (
-	"github.com/anurocks1/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // SpotFleet_SpotCapacityRebalance AWS CloudFormation Resource (AWS::EC2::SpotFleet.SpotCapacityRebalance)

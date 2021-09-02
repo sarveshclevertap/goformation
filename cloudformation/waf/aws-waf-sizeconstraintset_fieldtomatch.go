@@ -1,7 +1,7 @@
 package waf
 
 import (
-	"github.com/anurocks1/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // SizeConstraintSet_FieldToMatch AWS CloudFormation Resource (AWS::WAF::SizeConstraintSet.FieldToMatch)

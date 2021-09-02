@@ -1,7 +1,7 @@
 package appflow
 
 import (
-	"github.com/anurocks1/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // Flow_TrendmicroSourceProperties AWS CloudFormation Resource (AWS::AppFlow::Flow.TrendmicroSourceProperties)

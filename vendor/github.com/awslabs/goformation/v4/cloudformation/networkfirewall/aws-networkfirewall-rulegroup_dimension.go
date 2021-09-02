@@ -1,7 +1,7 @@
 package networkfirewall
 
 import (
-	"github.com/anurocks1/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // RuleGroup_Dimension AWS CloudFormation Resource (AWS::NetworkFirewall::RuleGroup.Dimension)

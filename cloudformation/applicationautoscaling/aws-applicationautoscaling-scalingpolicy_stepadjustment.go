@@ -1,7 +1,7 @@
 package applicationautoscaling
 
 import (
-	"github.com/anurocks1/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // ScalingPolicy_StepAdjustment AWS CloudFormation Resource (AWS::ApplicationAutoScaling::ScalingPolicy.StepAdjustment)

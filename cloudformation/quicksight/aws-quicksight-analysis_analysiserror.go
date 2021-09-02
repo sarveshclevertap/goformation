@@ -1,7 +1,7 @@
 package quicksight
 
 import (
-	"github.com/anurocks1/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // Analysis_AnalysisError AWS CloudFormation Resource (AWS::QuickSight::Analysis.AnalysisError)

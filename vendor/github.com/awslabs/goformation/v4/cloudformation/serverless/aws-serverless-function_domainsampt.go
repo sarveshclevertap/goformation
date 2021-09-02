@@ -1,7 +1,7 @@
 package serverless
 
 import (
-	"github.com/anurocks1/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // Function_DomainSAMPT AWS CloudFormation Resource (AWS::Serverless::Function.DomainSAMPT)

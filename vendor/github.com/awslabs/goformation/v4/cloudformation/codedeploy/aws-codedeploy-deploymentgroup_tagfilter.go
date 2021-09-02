@@ -1,7 +1,7 @@
 package codedeploy
 
 import (
-	"github.com/anurocks1/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // DeploymentGroup_TagFilter AWS CloudFormation Resource (AWS::CodeDeploy::DeploymentGroup.TagFilter)

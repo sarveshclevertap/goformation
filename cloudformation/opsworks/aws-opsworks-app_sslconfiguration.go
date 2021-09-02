@@ -1,7 +1,7 @@
 package opsworks
 
 import (
-	"github.com/anurocks1/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // App_SslConfiguration AWS CloudFormation Resource (AWS::OpsWorks::App.SslConfiguration)

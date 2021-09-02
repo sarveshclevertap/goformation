@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"sort"
 
-	"github.com/anurocks1/goformation/v4/cloudformation/utils"
+	"github.com/awslabs/goformation/v4/cloudformation/utils"
 )
 
 // StateMachine_Policies is a helper struct that can hold either a String, String, IAMPolicyDocument, SAMPolicyTemplate, or IAMPolicyDocument value

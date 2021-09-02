@@ -1,7 +1,7 @@
 package events
 
 import (
-	"github.com/anurocks1/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // Rule_BatchArrayProperties AWS CloudFormation Resource (AWS::Events::Rule.BatchArrayProperties)

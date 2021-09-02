@@ -1,7 +1,7 @@
 package pinpoint
 
 import (
-	"github.com/anurocks1/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // Campaign_MessageConfiguration AWS CloudFormation Resource (AWS::Pinpoint::Campaign.MessageConfiguration)

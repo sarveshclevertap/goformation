@@ -1,7 +1,7 @@
 package opsworks
 
 import (
-	"github.com/anurocks1/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // Instance_EbsBlockDevice AWS CloudFormation Resource (AWS::OpsWorks::Instance.EbsBlockDevice)

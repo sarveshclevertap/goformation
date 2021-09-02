@@ -1,7 +1,7 @@
 package appmesh
 
 import (
-	"github.com/anurocks1/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // VirtualNode_VirtualNodeHttpConnectionPool AWS CloudFormation Resource (AWS::AppMesh::VirtualNode.VirtualNodeHttpConnectionPool)

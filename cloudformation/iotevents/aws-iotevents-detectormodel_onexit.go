@@ -1,7 +1,7 @@
 package iotevents
 
 import (
-	"github.com/anurocks1/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // DetectorModel_OnExit AWS CloudFormation Resource (AWS::IoTEvents::DetectorModel.OnExit)

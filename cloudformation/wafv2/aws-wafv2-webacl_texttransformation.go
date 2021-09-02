@@ -1,7 +1,7 @@
 package wafv2
 
 import (
-	"github.com/anurocks1/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // WebACL_TextTransformation AWS CloudFormation Resource (AWS::WAFv2::WebACL.TextTransformation)

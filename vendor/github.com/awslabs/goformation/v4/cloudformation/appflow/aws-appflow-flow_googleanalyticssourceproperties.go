@@ -1,7 +1,7 @@
 package appflow
 
 import (
-	"github.com/anurocks1/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // Flow_GoogleAnalyticsSourceProperties AWS CloudFormation Resource (AWS::AppFlow::Flow.GoogleAnalyticsSourceProperties)

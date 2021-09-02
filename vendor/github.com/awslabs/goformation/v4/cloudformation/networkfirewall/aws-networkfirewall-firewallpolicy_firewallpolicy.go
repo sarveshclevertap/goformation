@@ -1,7 +1,7 @@
 package networkfirewall
 
 import (
-	"github.com/anurocks1/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // FirewallPolicy_FirewallPolicy AWS CloudFormation Resource (AWS::NetworkFirewall::FirewallPolicy.FirewallPolicy)

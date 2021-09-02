@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/anurocks1/goformation/v4/cloudformation/policies"
-	"github.com/anurocks1/goformation/v4/cloudformation/tags"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/tags"
 )
 
 // HttpNamespace AWS CloudFormation Resource (AWS::ServiceDiscovery::HttpNamespace)

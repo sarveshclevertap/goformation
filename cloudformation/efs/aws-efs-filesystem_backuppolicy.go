@@ -1,7 +1,7 @@
 package efs
 
 import (
-	"github.com/anurocks1/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // FileSystem_BackupPolicy AWS CloudFormation Resource (AWS::EFS::FileSystem.BackupPolicy)

@@ -1,7 +1,7 @@
 package mediapackage
 
 import (
-	"github.com/anurocks1/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // Channel_LogConfiguration AWS CloudFormation Resource (AWS::MediaPackage::Channel.LogConfiguration)

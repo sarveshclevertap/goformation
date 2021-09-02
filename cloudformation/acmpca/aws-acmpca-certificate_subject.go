@@ -1,7 +1,7 @@
 package acmpca
 
 import (
-	"github.com/anurocks1/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // Certificate_Subject AWS CloudFormation Resource (AWS::ACMPCA::Certificate.Subject)

@@ -1,7 +1,7 @@
 package globalaccelerator
 
 import (
-	"github.com/anurocks1/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // Listener_PortRange AWS CloudFormation Resource (AWS::GlobalAccelerator::Listener.PortRange)

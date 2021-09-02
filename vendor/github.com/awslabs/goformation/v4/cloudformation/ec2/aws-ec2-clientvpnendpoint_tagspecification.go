@@ -1,8 +1,8 @@
 package ec2
 
 import (
-	"github.com/anurocks1/goformation/v4/cloudformation/policies"
-	"github.com/anurocks1/goformation/v4/cloudformation/tags"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/tags"
 )
 
 // ClientVpnEndpoint_TagSpecification AWS CloudFormation Resource (AWS::EC2::ClientVpnEndpoint.TagSpecification)

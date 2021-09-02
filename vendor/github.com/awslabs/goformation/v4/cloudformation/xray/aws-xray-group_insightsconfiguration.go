@@ -1,7 +1,7 @@
 package xray
 
 import (
-	"github.com/anurocks1/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // Group_InsightsConfiguration AWS CloudFormation Resource (AWS::XRay::Group.InsightsConfiguration)

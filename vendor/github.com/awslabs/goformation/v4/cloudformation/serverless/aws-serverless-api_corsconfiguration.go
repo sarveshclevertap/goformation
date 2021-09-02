@@ -1,7 +1,7 @@
 package serverless
 
 import (
-	"github.com/anurocks1/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // Api_CorsConfiguration AWS CloudFormation Resource (AWS::Serverless::Api.CorsConfiguration)
