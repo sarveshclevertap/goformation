@@ -1,7 +1,7 @@
 package mwaa
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // Environment_ModuleLoggingConfiguration AWS CloudFormation Resource (AWS::MWAA::Environment.ModuleLoggingConfiguration)

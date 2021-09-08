@@ -1,7 +1,7 @@
 package customerprofiles
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // ObjectType_FieldMap AWS CloudFormation Resource (AWS::CustomerProfiles::ObjectType.FieldMap)

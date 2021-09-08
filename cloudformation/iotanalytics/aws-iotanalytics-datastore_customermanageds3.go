@@ -1,7 +1,7 @@
 package iotanalytics
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // Datastore_CustomerManagedS3 AWS CloudFormation Resource (AWS::IoTAnalytics::Datastore.CustomerManagedS3)

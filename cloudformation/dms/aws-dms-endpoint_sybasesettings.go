@@ -1,7 +1,7 @@
 package dms
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // Endpoint_SybaseSettings AWS CloudFormation Resource (AWS::DMS::Endpoint.SybaseSettings)

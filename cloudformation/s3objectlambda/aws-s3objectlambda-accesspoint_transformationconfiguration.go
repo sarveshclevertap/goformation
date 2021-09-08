@@ -1,7 +1,7 @@
 package s3objectlambda
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // AccessPoint_TransformationConfiguration AWS CloudFormation Resource (AWS::S3ObjectLambda::AccessPoint.TransformationConfiguration)

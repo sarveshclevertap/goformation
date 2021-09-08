@@ -1,7 +1,7 @@
 package medialive
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // Channel_M3u8Settings AWS CloudFormation Resource (AWS::MediaLive::Channel.M3u8Settings)

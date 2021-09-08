@@ -1,7 +1,7 @@
 package mediapackage
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // Channel_HlsIngest AWS CloudFormation Resource (AWS::MediaPackage::Channel.HlsIngest)

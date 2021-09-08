@@ -1,7 +1,7 @@
 package iotwireless
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // ServiceProfile_LoRaWANGetServiceProfileInfo AWS CloudFormation Resource (AWS::IoTWireless::ServiceProfile.LoRaWANGetServiceProfileInfo)

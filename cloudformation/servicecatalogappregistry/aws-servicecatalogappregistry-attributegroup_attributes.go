@@ -1,7 +1,7 @@
 package servicecatalogappregistry
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // AttributeGroup_Attributes AWS CloudFormation Resource (AWS::ServiceCatalogAppRegistry::AttributeGroup.Attributes)

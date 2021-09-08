@@ -3,9 +3,9 @@ package main_test
 import (
 	"encoding/json"
 
-	"github.com/dexty007/goformation/v4/cloudformation/serverless"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
+	"github.com/wizrocket/goformation/v4/cloudformation/serverless"
 )
 
 var _ = Describe("Goformation Code Generator", func() {

@@ -1,7 +1,7 @@
 package cloudfront
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // CachePolicy_HeadersConfig AWS CloudFormation Resource (AWS::CloudFront::CachePolicy.HeadersConfig)

@@ -1,7 +1,7 @@
 package sagemaker
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // ModelQualityJobDefinition_MonitoringGroundTruthS3Input AWS CloudFormation Resource (AWS::SageMaker::ModelQualityJobDefinition.MonitoringGroundTruthS3Input)

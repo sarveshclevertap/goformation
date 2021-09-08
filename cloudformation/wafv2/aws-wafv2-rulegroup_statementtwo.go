@@ -1,7 +1,7 @@
 package wafv2
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // RuleGroup_StatementTwo AWS CloudFormation Resource (AWS::WAFv2::RuleGroup.StatementTwo)

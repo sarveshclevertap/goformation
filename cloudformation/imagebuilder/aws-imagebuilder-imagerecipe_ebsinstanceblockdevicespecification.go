@@ -1,7 +1,7 @@
 package imagebuilder
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // ImageRecipe_EbsInstanceBlockDeviceSpecification AWS CloudFormation Resource (AWS::ImageBuilder::ImageRecipe.EbsInstanceBlockDeviceSpecification)

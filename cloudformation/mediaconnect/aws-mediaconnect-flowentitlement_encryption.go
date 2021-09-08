@@ -1,7 +1,7 @@
 package mediaconnect
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // FlowEntitlement_Encryption AWS CloudFormation Resource (AWS::MediaConnect::FlowEntitlement.Encryption)

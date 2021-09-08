@@ -1,7 +1,7 @@
 package athena
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // WorkGroup_ResultConfigurationUpdates AWS CloudFormation Resource (AWS::Athena::WorkGroup.ResultConfigurationUpdates)

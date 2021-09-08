@@ -1,7 +1,7 @@
 package certificatemanager
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // Account_ExpiryEventsConfiguration AWS CloudFormation Resource (AWS::CertificateManager::Account.ExpiryEventsConfiguration)

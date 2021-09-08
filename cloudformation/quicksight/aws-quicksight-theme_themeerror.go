@@ -1,7 +1,7 @@
 package quicksight
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // Theme_ThemeError AWS CloudFormation Resource (AWS::QuickSight::Theme.ThemeError)

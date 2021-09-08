@@ -1,7 +1,7 @@
 package codestar
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // GitHubRepository_S3 AWS CloudFormation Resource (AWS::CodeStar::GitHubRepository.S3)

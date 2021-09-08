@@ -1,7 +1,7 @@
 package codebuild
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // ReportGroup_S3ReportExportConfig AWS CloudFormation Resource (AWS::CodeBuild::ReportGroup.S3ReportExportConfig)

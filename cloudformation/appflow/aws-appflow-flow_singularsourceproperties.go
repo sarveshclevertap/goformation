@@ -1,7 +1,7 @@
 package appflow
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // Flow_SingularSourceProperties AWS CloudFormation Resource (AWS::AppFlow::Flow.SingularSourceProperties)

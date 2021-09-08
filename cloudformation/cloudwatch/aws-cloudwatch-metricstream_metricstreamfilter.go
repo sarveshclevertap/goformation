@@ -1,7 +1,7 @@
 package cloudwatch
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // MetricStream_MetricStreamFilter AWS CloudFormation Resource (AWS::CloudWatch::MetricStream.MetricStreamFilter)

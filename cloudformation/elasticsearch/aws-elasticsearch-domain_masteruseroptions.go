@@ -1,7 +1,7 @@
 package elasticsearch
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // Domain_MasterUserOptions AWS CloudFormation Resource (AWS::Elasticsearch::Domain.MasterUserOptions)

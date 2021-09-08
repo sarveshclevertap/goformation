@@ -1,7 +1,7 @@
 package apigatewayv2
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // ApiGatewayManagedOverrides_RouteSettings AWS CloudFormation Resource (AWS::ApiGatewayV2::ApiGatewayManagedOverrides.RouteSettings)

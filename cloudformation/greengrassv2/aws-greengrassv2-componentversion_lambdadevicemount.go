@@ -1,7 +1,7 @@
 package greengrassv2
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // ComponentVersion_LambdaDeviceMount AWS CloudFormation Resource (AWS::GreengrassV2::ComponentVersion.LambdaDeviceMount)

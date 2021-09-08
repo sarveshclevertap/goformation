@@ -1,7 +1,7 @@
 package iam
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // Role_Policy AWS CloudFormation Resource (AWS::IAM::Role.Policy)

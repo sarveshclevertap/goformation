@@ -1,7 +1,7 @@
 package elasticbeanstalk
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // Environment_Tier AWS CloudFormation Resource (AWS::ElasticBeanstalk::Environment.Tier)

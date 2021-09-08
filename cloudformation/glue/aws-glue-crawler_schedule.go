@@ -1,7 +1,7 @@
 package glue
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // Crawler_Schedule AWS CloudFormation Resource (AWS::Glue::Crawler.Schedule)

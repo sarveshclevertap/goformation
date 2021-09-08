@@ -29,7 +29,7 @@
 As with other Go libraries, GoFormation can be installed with `go get`.
 
 ```
-$ go get github.com/dexty007/goformation/v4
+$ go get github.com/wizrocket/goformation/v4
 ```
 
 ## Usage
@@ -46,8 +46,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/dexty007/goformation/v4/cloudformation"
-	"github.com/dexty007/goformation/v4/cloudformation/sns"
+	"github.com/wizrocket/goformation/v4/cloudformation"
+	"github.com/wizrocket/goformation/v4/cloudformation/sns"
 
 
 )
@@ -161,7 +161,7 @@ package main
 import (
 	"log"
 
-	"github.com/dexty007/goformation/v4"
+	"github.com/wizrocket/goformation/v4"
 )
 
 func main() {

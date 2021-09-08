@@ -1,7 +1,7 @@
 package appmesh
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // VirtualNode_ClientPolicy AWS CloudFormation Resource (AWS::AppMesh::VirtualNode.ClientPolicy)

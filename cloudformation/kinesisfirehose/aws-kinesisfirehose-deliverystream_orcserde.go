@@ -1,7 +1,7 @@
 package kinesisfirehose
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // DeliveryStream_OrcSerDe AWS CloudFormation Resource (AWS::KinesisFirehose::DeliveryStream.OrcSerDe)

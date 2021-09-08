@@ -1,7 +1,7 @@
 package applicationinsights
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // Application_LogPattern AWS CloudFormation Resource (AWS::ApplicationInsights::Application.LogPattern)

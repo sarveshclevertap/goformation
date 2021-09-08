@@ -1,7 +1,7 @@
 package mediapackage
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // PackagingConfiguration_CmafEncryption AWS CloudFormation Resource (AWS::MediaPackage::PackagingConfiguration.CmafEncryption)

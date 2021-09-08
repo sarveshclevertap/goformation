@@ -1,7 +1,7 @@
 package imagebuilder
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // ImagePipeline_Schedule AWS CloudFormation Resource (AWS::ImageBuilder::ImagePipeline.Schedule)

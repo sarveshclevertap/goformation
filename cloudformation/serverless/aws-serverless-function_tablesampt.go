@@ -1,7 +1,7 @@
 package serverless
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // Function_TableSAMPT AWS CloudFormation Resource (AWS::Serverless::Function.TableSAMPT)

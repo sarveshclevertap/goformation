@@ -1,7 +1,7 @@
 package nimblestudio
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // StudioComponent_SharedFileSystemConfiguration AWS CloudFormation Resource (AWS::NimbleStudio::StudioComponent.SharedFileSystemConfiguration)

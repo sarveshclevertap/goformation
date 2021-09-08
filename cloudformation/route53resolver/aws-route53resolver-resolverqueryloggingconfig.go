@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // ResolverQueryLoggingConfig AWS CloudFormation Resource (AWS::Route53Resolver::ResolverQueryLoggingConfig)

@@ -1,7 +1,7 @@
 package ssmincidents
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // ResponsePlan_Action AWS CloudFormation Resource (AWS::SSMIncidents::ResponsePlan.Action)

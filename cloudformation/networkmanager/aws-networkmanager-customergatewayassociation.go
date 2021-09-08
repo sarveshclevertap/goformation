@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // CustomerGatewayAssociation AWS CloudFormation Resource (AWS::NetworkManager::CustomerGatewayAssociation)

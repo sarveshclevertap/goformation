@@ -1,7 +1,7 @@
 package elasticache
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // User_Authentication AWS CloudFormation Resource (AWS::ElastiCache::User.Authentication)

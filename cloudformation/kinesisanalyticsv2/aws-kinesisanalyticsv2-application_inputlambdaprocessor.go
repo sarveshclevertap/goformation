@@ -1,7 +1,7 @@
 package kinesisanalyticsv2
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // Application_InputLambdaProcessor AWS CloudFormation Resource (AWS::KinesisAnalyticsV2::Application.InputLambdaProcessor)

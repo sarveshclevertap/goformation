@@ -1,7 +1,7 @@
 package apigateway
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // Method_Integration AWS CloudFormation Resource (AWS::ApiGateway::Method.Integration)

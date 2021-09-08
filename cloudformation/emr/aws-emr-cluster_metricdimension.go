@@ -1,7 +1,7 @@
 package emr
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // Cluster_MetricDimension AWS CloudFormation Resource (AWS::EMR::Cluster.MetricDimension)

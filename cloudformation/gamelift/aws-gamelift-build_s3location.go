@@ -1,7 +1,7 @@
 package gamelift
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // Build_S3Location AWS CloudFormation Resource (AWS::GameLift::Build.S3Location)

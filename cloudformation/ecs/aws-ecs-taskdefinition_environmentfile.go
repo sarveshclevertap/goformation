@@ -1,7 +1,7 @@
 package ecs
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // TaskDefinition_EnvironmentFile AWS CloudFormation Resource (AWS::ECS::TaskDefinition.EnvironmentFile)

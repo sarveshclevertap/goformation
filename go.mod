@@ -1,4 +1,4 @@
-module github.com/dexty007/goformation/v4
+module github.com/wizrocket/goformation/v4
 
 require (
 	github.com/awslabs/goformation/v4 v4.19.5 // indirect

@@ -1,8 +1,8 @@
 package licensemanager
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
-	"github.com/dexty007/goformation/v4/cloudformation/tags"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/tags"
 )
 
 // Grant_TagList AWS CloudFormation Resource (AWS::LicenseManager::Grant.TagList)

@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"sort"
 
-	"github.com/dexty007/goformation/v4/cloudformation/utils"
+	"github.com/wizrocket/goformation/v4/cloudformation/utils"
 )
 
 // StateMachine_DefinitionUri is a helper struct that can hold either a String or S3Location value

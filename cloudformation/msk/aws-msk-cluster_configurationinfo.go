@@ -1,7 +1,7 @@
 package msk
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // Cluster_ConfigurationInfo AWS CloudFormation Resource (AWS::MSK::Cluster.ConfigurationInfo)

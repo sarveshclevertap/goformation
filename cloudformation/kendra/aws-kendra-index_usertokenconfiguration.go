@@ -1,7 +1,7 @@
 package kendra
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // Index_UserTokenConfiguration AWS CloudFormation Resource (AWS::Kendra::Index.UserTokenConfiguration)

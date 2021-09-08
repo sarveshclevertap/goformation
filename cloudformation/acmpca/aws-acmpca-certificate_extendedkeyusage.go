@@ -1,7 +1,7 @@
 package acmpca
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // Certificate_ExtendedKeyUsage AWS CloudFormation Resource (AWS::ACMPCA::Certificate.ExtendedKeyUsage)

@@ -1,7 +1,7 @@
 package kendra
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // DataSource_DocumentsMetadataConfiguration AWS CloudFormation Resource (AWS::Kendra::DataSource.DocumentsMetadataConfiguration)

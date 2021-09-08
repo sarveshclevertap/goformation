@@ -1,7 +1,7 @@
 package appconfig
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // Environment_Tags AWS CloudFormation Resource (AWS::AppConfig::Environment.Tags)

@@ -1,7 +1,7 @@
 package appconfig
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // ConfigurationProfile_Validators AWS CloudFormation Resource (AWS::AppConfig::ConfigurationProfile.Validators)

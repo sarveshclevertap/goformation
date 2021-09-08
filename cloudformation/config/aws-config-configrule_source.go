@@ -1,7 +1,7 @@
 package config
 
 import (
-	"github.com/dexty007/goformation/v4/cloudformation/policies"
+	"github.com/wizrocket/goformation/v4/cloudformation/policies"
 )
 
 // ConfigRule_Source AWS CloudFormation Resource (AWS::Config::ConfigRule.Source)
