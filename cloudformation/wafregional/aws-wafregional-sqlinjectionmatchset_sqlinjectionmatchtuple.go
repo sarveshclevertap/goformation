@@ -1,7 +1,7 @@
 package wafregional
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // SqlInjectionMatchSet_SqlInjectionMatchTuple AWS CloudFormation Resource (AWS::WAFRegional::SqlInjectionMatchSet.SqlInjectionMatchTuple)

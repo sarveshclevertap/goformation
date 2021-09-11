@@ -1,7 +1,7 @@
 package iotevents
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // DetectorModel_IotSiteWise AWS CloudFormation Resource (AWS::IoTEvents::DetectorModel.IotSiteWise)

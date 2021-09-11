@@ -1,7 +1,7 @@
 package elasticache
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // User_UserGroupIdList AWS CloudFormation Resource (AWS::ElastiCache::User.UserGroupIdList)

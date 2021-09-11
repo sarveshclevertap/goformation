@@ -1,7 +1,7 @@
 package elasticbeanstalk
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // Environment_OptionSetting AWS CloudFormation Resource (AWS::ElasticBeanstalk::Environment.OptionSetting)

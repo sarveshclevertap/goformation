@@ -1,7 +1,7 @@
 package apprunner
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // Service_SourceConfiguration AWS CloudFormation Resource (AWS::AppRunner::Service.SourceConfiguration)

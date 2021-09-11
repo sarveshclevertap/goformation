@@ -1,7 +1,7 @@
 package stepfunctions
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // StateMachine_LoggingConfiguration AWS CloudFormation Resource (AWS::StepFunctions::StateMachine.LoggingConfiguration)

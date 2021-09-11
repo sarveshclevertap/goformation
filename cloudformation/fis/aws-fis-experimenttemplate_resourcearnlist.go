@@ -1,7 +1,7 @@
 package fis
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // ExperimentTemplate_ResourceArnList AWS CloudFormation Resource (AWS::FIS::ExperimentTemplate.ResourceArnList)

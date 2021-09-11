@@ -1,7 +1,7 @@
 package sagemaker
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // UserProfile_ResourceSpec AWS CloudFormation Resource (AWS::SageMaker::UserProfile.ResourceSpec)

@@ -1,7 +1,7 @@
 package sagemaker
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // ModelBiasJobDefinition_ModelBiasAppSpecification AWS CloudFormation Resource (AWS::SageMaker::ModelBiasJobDefinition.ModelBiasAppSpecification)

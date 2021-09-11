@@ -1,8 +1,8 @@
 package networkfirewall
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
-	"github.com/wizrocket/goformation/v4/cloudformation/tags"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/tags"
 )
 
 // RuleGroup_Tags AWS CloudFormation Resource (AWS::NetworkFirewall::RuleGroup.Tags)

@@ -1,7 +1,7 @@
 package efs
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // AccessPoint_PosixUser AWS CloudFormation Resource (AWS::EFS::AccessPoint.PosixUser)

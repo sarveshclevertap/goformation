@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
-	"github.com/wizrocket/goformation/v4/cloudformation/tags"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/tags"
 )
 
 // Schedule AWS CloudFormation Resource (AWS::DataBrew::Schedule)

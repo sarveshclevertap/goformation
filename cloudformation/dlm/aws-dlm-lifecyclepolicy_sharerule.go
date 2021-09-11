@@ -1,7 +1,7 @@
 package dlm
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // LifecyclePolicy_ShareRule AWS CloudFormation Resource (AWS::DLM::LifecyclePolicy.ShareRule)

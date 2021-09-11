@@ -1,7 +1,7 @@
 package mwaa
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // Environment_TagMap AWS CloudFormation Resource (AWS::MWAA::Environment.TagMap)

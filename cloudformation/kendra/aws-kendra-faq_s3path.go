@@ -1,7 +1,7 @@
 package kendra
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // Faq_S3Path AWS CloudFormation Resource (AWS::Kendra::Faq.S3Path)

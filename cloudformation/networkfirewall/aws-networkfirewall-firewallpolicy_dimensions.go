@@ -1,7 +1,7 @@
 package networkfirewall
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // FirewallPolicy_Dimensions AWS CloudFormation Resource (AWS::NetworkFirewall::FirewallPolicy.Dimensions)

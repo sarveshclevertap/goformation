@@ -1,7 +1,7 @@
 package imagebuilder
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // DistributionConfiguration_Distribution AWS CloudFormation Resource (AWS::ImageBuilder::DistributionConfiguration.Distribution)

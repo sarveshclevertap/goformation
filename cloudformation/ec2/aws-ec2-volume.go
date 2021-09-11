@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
-	"github.com/wizrocket/goformation/v4/cloudformation/tags"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/tags"
 )
 
 // Volume AWS CloudFormation Resource (AWS::EC2::Volume)

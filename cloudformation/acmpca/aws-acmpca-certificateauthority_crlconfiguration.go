@@ -1,7 +1,7 @@
 package acmpca
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // CertificateAuthority_CrlConfiguration AWS CloudFormation Resource (AWS::ACMPCA::CertificateAuthority.CrlConfiguration)

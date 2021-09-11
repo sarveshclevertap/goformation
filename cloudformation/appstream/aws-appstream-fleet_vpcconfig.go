@@ -1,7 +1,7 @@
 package appstream
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // Fleet_VpcConfig AWS CloudFormation Resource (AWS::AppStream::Fleet.VpcConfig)

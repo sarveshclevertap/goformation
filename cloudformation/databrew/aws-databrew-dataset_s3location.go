@@ -1,7 +1,7 @@
 package databrew
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // Dataset_S3Location AWS CloudFormation Resource (AWS::DataBrew::Dataset.S3Location)

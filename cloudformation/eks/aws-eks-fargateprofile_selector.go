@@ -1,7 +1,7 @@
 package eks
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // FargateProfile_Selector AWS CloudFormation Resource (AWS::EKS::FargateProfile.Selector)

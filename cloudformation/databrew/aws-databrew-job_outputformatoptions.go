@@ -1,7 +1,7 @@
 package databrew
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // Job_OutputFormatOptions AWS CloudFormation Resource (AWS::DataBrew::Job.OutputFormatOptions)

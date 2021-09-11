@@ -5,8 +5,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
-	"github.com/wizrocket/goformation/v4/cloudformation/tags"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/tags"
 )
 
 // ContactList AWS CloudFormation Resource (AWS::SES::ContactList)

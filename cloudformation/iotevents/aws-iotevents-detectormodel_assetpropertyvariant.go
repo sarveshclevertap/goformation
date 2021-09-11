@@ -1,7 +1,7 @@
 package iotevents
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // DetectorModel_AssetPropertyVariant AWS CloudFormation Resource (AWS::IoTEvents::DetectorModel.AssetPropertyVariant)

@@ -1,7 +1,7 @@
 package auditmanager
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // Assessment_AWSService AWS CloudFormation Resource (AWS::AuditManager::Assessment.AWSService)

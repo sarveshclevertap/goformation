@@ -1,7 +1,7 @@
 package glue
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // Schema_Registry AWS CloudFormation Resource (AWS::Glue::Schema.Registry)

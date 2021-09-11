@@ -1,7 +1,7 @@
 package mediastore
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // Container_MetricPolicy AWS CloudFormation Resource (AWS::MediaStore::Container.MetricPolicy)

@@ -1,7 +1,7 @@
 package ecs
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // TaskDefinition_ResourceRequirement AWS CloudFormation Resource (AWS::ECS::TaskDefinition.ResourceRequirement)

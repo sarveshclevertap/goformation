@@ -1,8 +1,8 @@
 package kendra
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
-	"github.com/wizrocket/goformation/v4/cloudformation/tags"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/tags"
 )
 
 // Index_TagList AWS CloudFormation Resource (AWS::Kendra::Index.TagList)

@@ -1,7 +1,6 @@
-module github.com/wizrocket/goformation/v4
+module github.com/awslabs/goformation/v4
 
 require (
-	github.com/awslabs/goformation/v4 v4.19.5 // indirect
 	github.com/imdario/mergo v0.3.12
 	github.com/johandorland/gojsonschema v0.0.0-20181016150526-f3a9dae5b194 // indirect
 	github.com/onsi/ginkgo v1.16.2

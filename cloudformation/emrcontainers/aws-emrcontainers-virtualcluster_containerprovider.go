@@ -1,7 +1,7 @@
 package emrcontainers
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // VirtualCluster_ContainerProvider AWS CloudFormation Resource (AWS::EMRContainers::VirtualCluster.ContainerProvider)

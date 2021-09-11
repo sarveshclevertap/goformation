@@ -1,7 +1,7 @@
 package quicksight
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // Theme_ResourcePermission AWS CloudFormation Resource (AWS::QuickSight::Theme.ResourcePermission)

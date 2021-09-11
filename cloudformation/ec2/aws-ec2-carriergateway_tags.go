@@ -1,8 +1,8 @@
 package ec2
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
-	"github.com/wizrocket/goformation/v4/cloudformation/tags"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/tags"
 )
 
 // CarrierGateway_Tags AWS CloudFormation Resource (AWS::EC2::CarrierGateway.Tags)

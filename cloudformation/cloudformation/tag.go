@@ -1,7 +1,7 @@
 package cloudformation
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // Tag AWS CloudFormation Resource (Tag)

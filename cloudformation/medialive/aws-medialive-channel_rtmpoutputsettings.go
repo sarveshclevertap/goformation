@@ -1,7 +1,7 @@
 package medialive
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // Channel_RtmpOutputSettings AWS CloudFormation Resource (AWS::MediaLive::Channel.RtmpOutputSettings)

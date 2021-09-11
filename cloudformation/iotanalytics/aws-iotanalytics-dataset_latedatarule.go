@@ -1,7 +1,7 @@
 package iotanalytics
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // Dataset_LateDataRule AWS CloudFormation Resource (AWS::IoTAnalytics::Dataset.LateDataRule)

@@ -1,7 +1,7 @@
 package mediapackage
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // PackagingConfiguration_MssManifest AWS CloudFormation Resource (AWS::MediaPackage::PackagingConfiguration.MssManifest)

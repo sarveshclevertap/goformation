@@ -1,7 +1,7 @@
 package groundstation
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // Config_AntennaDownlinkConfig AWS CloudFormation Resource (AWS::GroundStation::Config.AntennaDownlinkConfig)

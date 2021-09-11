@@ -1,7 +1,7 @@
 package lambda
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // EventSourceMapping_OnFailure AWS CloudFormation Resource (AWS::Lambda::EventSourceMapping.OnFailure)

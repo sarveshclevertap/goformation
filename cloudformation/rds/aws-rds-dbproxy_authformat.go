@@ -1,7 +1,7 @@
 package rds
 
 import (
-	"github.com/wizrocket/goformation/v4/cloudformation/policies"
+	"github.com/awslabs/goformation/v4/cloudformation/policies"
 )
 
 // DBProxy_AuthFormat AWS CloudFormation Resource (AWS::RDS::DBProxy.AuthFormat)
