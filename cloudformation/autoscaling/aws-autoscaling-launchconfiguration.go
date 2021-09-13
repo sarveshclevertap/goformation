@@ -15,7 +15,7 @@ type LaunchConfiguration struct {
 	// AssociatePublicIpAddress AWS CloudFormation Property
 	// Required: false
 	// See: http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-as-launchconfig.html#cf-as-launchconfig-associatepubip
-	AssociatePublicIpAddress bool `json:"AssociatePublicIpAddress,omitempty"`
+	AssociatePublicIpAddress bool `json:"AssociatePublicIpAddress"`
 
 	// BlockDeviceMappings AWS CloudFormation Property
 	// Required: false

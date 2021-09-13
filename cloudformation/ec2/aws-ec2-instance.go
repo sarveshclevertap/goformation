@@ -46,7 +46,7 @@ type Instance struct {
 	// DisableApiTermination AWS CloudFormation Property
 	// Required: false
 	// See: http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-ec2-instance.html#cfn-ec2-instance-disableapitermination
-	DisableApiTermination bool `json:"DisableApiTermination,omitempty"`
+	DisableApiTermination bool `json:"DisableApiTermination"`
 
 	// EbsOptimized AWS CloudFormation Property
 	// Required: false
