@@ -76,7 +76,7 @@ type JobDefinition_ContainerProperties struct {
 	// ReadonlyRootFilesystem AWS CloudFormation Property
 	// Required: false
 	// See: http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-batch-jobdefinition-containerproperties.html#cfn-batch-jobdefinition-containerproperties-readonlyrootfilesystem
-	ReadonlyRootFilesystem bool `json:"ReadonlyRootFilesystem"`
+	ReadonlyRootFilesystem bool `json:"ReadonlyRootFilesystem,omitempty"`
 
 	// ResourceRequirements AWS CloudFormation Property
 	// Required: false
